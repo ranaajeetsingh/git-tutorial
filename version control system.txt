@@ -45,5 +45,31 @@ Git
 
 GitHub
 # GitHub is a service
-# Remote server
-# Project sharing and collaboration
+# Remote repository hosting
+# Project sharing and collaboration hub
+
+Why GitHub is so popular?
+# Rull Requests (PRs)
+- Code review
+- Discussion
+- Approval workflow
+
+# Issues
+- Report bugs
+- Track features
+- Discuss requirements
+- Assign and prioritize
+
+# GitHub Actions (CI/CD)
+- Automate tests
+- Build and deploy
+- Linting
+- Formatting
+
+# GitHub Pages
+- Personal portfolios
+- Project documentation
+- Static websites
+
+# Wikis
+# Security scan
