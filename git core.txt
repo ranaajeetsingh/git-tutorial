@@ -1,0 +1,20 @@
+Git Workflow:
+
+Working Directory -> Staging Area -> Git Repository
+
+Check state of your files:
+git status
+
+Add file/s to staging area:
+git add <file_name> (To add new/modified single file)
+git add . (To add all new/modified files)
+
+
+
+Save your snapshot to repository:
+git commit -m "message"
+
+View project history:
+git log
+git log --oneline (single line summary for each commit)
+git log --graph (add astrick to the left of commit message to distinguish each commit)

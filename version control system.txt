@@ -1,0 +1,49 @@
+Version Control System (VCS)
+# Track changes
+# Complete history
+# Collaboration
+# Experimentation
+# Auditability
+
+Types of VCS:
+# Central version control system
+E.g. SVN
+
+# Distributed version control system
+E.g. Git
+
+Git core philosophy:
+1. Speed
+# Blazingly fast
+# Instant operations
+# Works with local repo
+# No remote server interaction
+# No network latency
+
+2. Data Integrity
+# Calculates checksum
+# Cryptographically secure
+# Accurate project history
+# Verifiable project history
+# Protected project history
+
+3. Distributed Nature
+# DVCS model
+# Every clone is full backup
+# Work offline
+# No single point of failure
+# Independent and sync
+
+Git VS GitHub
+
+Git
+# Git is a tool
+# Command line program
+# Engine, core technology
+# Run locally
+# Open source
+
+GitHub
+# GitHub is a service
+# Remote server
+# Project sharing and collaboration

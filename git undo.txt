@@ -1,0 +1,13 @@
+# Discard changes completly
+git restore <file_name>
+git restore (To discard all changes)
+
+# To unstage a new staged file:
+git rm --cached <file_name>
+
+# Unstage modified files before commit
+git restore --staged <file_name>
+
+# Change the commit
+git commit --amend (To change the commit message)
+git commit --amend --no-edit (To commit changes without commit message change)

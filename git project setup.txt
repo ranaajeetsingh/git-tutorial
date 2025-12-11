@@ -1,0 +1,13 @@
+In local machine:
+
+Create a directory/folder:
+E.g. Windows mkdir <folder_name>
+
+Change directory:
+E.g. cd <folder_name>
+
+Initialize git project:
+git init
+
+From remote server:
+git clone <repo_url>

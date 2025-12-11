@@ -1,0 +1,14 @@
+To verify version:
+git version
+
+To set global username:
+git config --global user.name <username>
+
+To set global email address:
+git config --global user.email <email_address>
+
+To set global default branch name:
+git config --global init.defaultBranch <branch_name>
+
+To verify global setting:
+git config --global --list
