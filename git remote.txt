@@ -1,0 +1,8 @@
+# To connect to remote repository
+git remote add origin <repo_url>
+
+# To verify remote connection
+git remote -v
+
+# To push changes first time
+git push -u origin main
