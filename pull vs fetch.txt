@@ -1,0 +1,40 @@
+# Downloading changes with integration
+git fetch origin
+
+- What's new on the remote
+- Does not download the changes
+- Downloads the latest commits
+- SEparate from your active work
+
+Why to use git fetch?
+1. Preview
+- What changes happened on remote
+- Check if others have pushed new work
+- Changes made directly on GitHub
+
+2. Safety
+- Non-destructive operation
+- Does not modify local or current branch
+- Review changes before merging
+
+# Downloading changes with integration
+git pull: fetch + merge/rebase
+
+- combination of 2 operations
+- get fetch followed by git merge
+- fetches latest changes from remote
+- integrate changes with local
+
+git pull origin main
+
+# When to use git pull vs git fetch?
+
+git pull
+- Immediately update
+- Latest changes
+- Everyday sync command
+
+git fetch
+- Inspect new changes
+- Update remote refs
+- read-only sync
