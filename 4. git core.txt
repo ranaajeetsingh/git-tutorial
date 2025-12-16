@@ -17,4 +17,4 @@ git commit -m "message"
 View project history:
 git log
 git log --oneline (single line summary for each commit)
-git log --graph (add astrick to the left of commit message to distinguish each commit)
+git log --graph (add graph to the left of commit message to distinguish each commit)
